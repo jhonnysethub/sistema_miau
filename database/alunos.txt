@@ -1,0 +1,5 @@
+Joao;15;1A;sim;atencao
+Maria;16;2B;nao;leitura
+Lucas;15;1A;nao;nenhuma
+yara ;13;8;nao;atenção
+Regina;15;2;sim;leitura
